@@ -21,3 +21,6 @@ __pycache__/
 # Operating-system files
 .DS_Store
 Thumbs.db
+# Generated data and models
+data/clean/
+models/
