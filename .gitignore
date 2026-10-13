@@ -2,5 +2,5 @@ cities.csv
 bikes.csv
 bike_types.csv
 stations.csv
-station_status.csv
-trips.csv
+stations_status.csv
+trips_small.csv
