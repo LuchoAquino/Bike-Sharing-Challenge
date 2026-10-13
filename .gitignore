@@ -4,3 +4,19 @@ bike_types.csv
 stations.csv
 station_status.csv
 trips.csv
+
+# Local Python environment
+.venv/
+
+# Python-generated files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter-generated files
+.ipynb_checkpoints/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
