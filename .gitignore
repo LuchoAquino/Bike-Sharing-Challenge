@@ -6,9 +6,6 @@ stations_status.csv
 trips_small.csv
 
 
-station_status.csv
-trips.csv
-
 # Local Python environment
 .venv/
 
