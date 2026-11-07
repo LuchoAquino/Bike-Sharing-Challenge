@@ -4,7 +4,7 @@ bike_types.csv
 stations.csv
 stations_status.csv
 trips_small.csv
-
+trips_small_cleaned.csv
 
 # Local Python environment
 .venv/
