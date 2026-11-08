@@ -29,3 +29,5 @@ data_external/
 bike_sharing_challenge_2026_eval/
 notebook_bike_modeling.ipynb
 notebook_bike.ipynb
+
+output/prediction/
