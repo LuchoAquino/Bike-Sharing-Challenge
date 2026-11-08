@@ -24,3 +24,8 @@ Thumbs.db
 # Generated data and models
 data/clean/
 models/
+data_cleaned/
+data_external/
+bike_sharing_challenge_2026_eval/
+notebook_bike_modeling.ipynb
+notebook_bike.ipynb
